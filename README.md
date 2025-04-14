@@ -9,12 +9,14 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ## 📘 Course Syllabus
 
 ### 📦 UNIT I: Fluid Statics (9 Hours)
+🎥 [Density, Viscosity & Compressibility](https://www.youtube.com/watch?v=abc123)
 
 - Fluid properties: Density, viscosity, compressibility
 - Newtonian & non-Newtonian fluids
 - Pressure-density relation for ideal gas
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
 - Pascal’s Law and manometers
+- 🎥 [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
 - Archimedes' principle & buoyancy
 - Continuum hypothesis and field variables
 - Velocity and stress fields
