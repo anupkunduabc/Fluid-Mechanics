@@ -8,7 +8,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ---
 ## 📘 Course Syllabus
 
-### 📦 UNIT I: Fluid Statics
+### 📦 🧪UNIT I: Fluid Statics
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
@@ -30,7 +30,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ---
 
-### 🔁 UNIT II: Kinematics of Fluid Flow (9 Hours)
+### 🔁 💧UNIT II: Kinematics of Fluid Flow (9 Hours)
 
 - Flow types: Laminar vs Turbulent
 - Reynolds number and flow regimes
@@ -81,17 +81,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
-## 🧪 Module 1: Introduction to Fluid Mechanics
-🎥 [What is Fluid Mechanics?](https://www.youtube.com/watch?v=XXXXXX)
 
-## 💧 Module 2: Fluid Properties
-🎥 [Density, Viscosity, and Surface Tension](https://www.youtube.com/watch?v=YYYYYY)
-
-## 🌀 Module 3: Fluid Statics
-🎥 [Pascal’s Law and Pressure Variation](https://www.youtube.com/watch?v=ZZZZZZ)
-
-## 🔄 Module 4: Fluid Dynamics
-🎥 [Bernoulli's Equation](https://www.youtube.com/watch?v=AAAAAA)
 
 ---
 
