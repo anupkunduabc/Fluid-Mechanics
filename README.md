@@ -8,10 +8,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ---
 ## 📘 Course Syllabus
 
-### 📦 UNIT I: Fluid Statics (9 Hours)
-🎥 [Density, Viscosity & Compressibility](https://www.youtube.com/watch?v=abc123)
-
-- Fluid properties: Density, viscosity, compressibility
+### 📦 UNIT I: Fluid Statics
+- [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
+- [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - Newtonian & non-Newtonian fluids
 - Pressure-density relation for ideal gas
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
