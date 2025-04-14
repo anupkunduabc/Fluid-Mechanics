@@ -11,8 +11,11 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 📦 UNIT I: Fluid Statics
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
+- [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
 - Newtonian & non-Newtonian fluids
+- [Pressure units](https://youtube.com/shorts/Gl6jF6qVjJI)
 - Pressure-density relation for ideal gas
+- [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
 - Pascal’s Law and manometers
 - [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
