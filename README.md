@@ -16,7 +16,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Pressure-density relation for ideal gas
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
 - Pascal’s Law and manometers
-- 🎥 [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
+- [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
+- [Pressure Measurement by U-tube manometer](https://youtu.be/5ba06VFGaFs)
+- [Double U tube Manometer: Pressure measurement](https://youtu.be/ESrNSMZC89Y)
 - Archimedes' principle & buoyancy
 - Continuum hypothesis and field variables
 - Velocity and stress fields
