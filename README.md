@@ -12,6 +12,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
+- [Viscosity & Kinematic Viscosity](https://youtube.com/shorts/ZUzv4Prdvow)
+- [Surface Tension and Compressibility](https://youtube.com/shorts/bRd-NxuhFOM)
+- [Capillary rise and fall](https://youtube.com/shorts/dCSSwj9vQvI)
 - Newtonian & non-Newtonian fluids
 - [Pressure units](https://youtube.com/shorts/Gl6jF6qVjJI)
 - Pressure-density relation for ideal gas
@@ -33,6 +36,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 🔁 💧UNIT II: Kinematics of Fluid Flow (9 Hours)
 
 - Flow types: Laminar vs Turbulent
+- [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - Reynolds number and flow regimes
 - Continuity and motion equations
 - Bernoulli’s equation & engineering applications
