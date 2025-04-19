@@ -128,7 +128,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
-- [Derivation of the Navier-Stokes Equations][https://youtu.be/fpp9wgnbg80]
+- [Derivation of the Navier-Stokes Equations](https://youtu.be/fpp9wgnbg80)
 - [Bernoulli’s Equation: Fluid Flow in a Pipe](https://youtu.be/6nhu8WL6mTU)
 - [Derivation of Bernoulli's Equation from Euler's Equations](https://youtu.be/tkYdv5AHieQ)
 - [Exploring the Various Forms of Bernoulli's Equation](https://youtu.be/kacp8gYAQTE)
@@ -199,7 +199,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Boundary layer theory
 - Flow over objects: Drag and lift
 - Flow through beds and porous media
-- [Terminal Velocity GATE Questions][https://youtube.com/shorts/13jdizyQGLM]
+- [Terminal Velocity GATE Questions](https://youtube.com/shorts/13jdizyQGLM)
 - [Motion of Particle through Fluid ](https://youtube.com/shorts/JeVre3SauFI)
 - [Terminal velocity of a particle in a fluid ](https://youtube.com/shorts/fyB0W2K1GE0)
 - [Sphericity  and Short Cylinder Sphericity Calculation](https://youtu.be/QbpW8QWBOQk)
