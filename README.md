@@ -96,16 +96,18 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 🔁 💧UNIT II: Kinematics of Fluid Flow
 
 - Flow types: Laminar vs Turbulent
+- [Mass Flow Rate and Volumetric Flow Rate](https://youtu.be/qn9CDHnMBaM)
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - [Reynolds number and flow regimes](https://youtu.be/vzBXbDyjCFU)
 - [Types of Forces Acting in Moving Fluid](https://youtu.be/3IBs0TXqq2I)
 - [fluid forces](https://youtube.com/shorts/Ss1odbzSwYk)
-- [Material Derivative /Substantial Derivative][https://youtube.com/shorts/Dmrl7fWxBSI]
+- [Material Derivative /Substantial Derivative](https://youtube.com/shorts/Dmrl7fWxBSI)
 - [Derivation of 3D Continuity Equation and Special Cases](https://youtu.be/jWszNf-SNAA)
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - [Application of flow Continuity](https://youtube.com/shorts/zLGoa9W44ig)
-- [Continuity and motion equations](Continuity Equations)
+- [Solving Continuity Equation: Flow Rate and Velocity Calculation in a Pipe](https://youtu.be/nxkCqeGprI8)
+- [Understanding the Continuity Equation for Pipe Flow ](https://youtu.be/py15pIw6eaM)
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
