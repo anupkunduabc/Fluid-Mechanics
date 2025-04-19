@@ -68,7 +68,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Steady Unsteady uniform non-uniform flow](https://youtube.com/shorts/EdpaaBm9xfw)
 - 
 
-🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
+-🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
 -🎥 Numerical 
 - [Kinematic Viscosity Calculation](https://youtu.be/gn7WpNE67mQ)
 - [Converting Viscosity and Calculating Kinematic Viscosity for Water at 75°C](https://youtu.be/Ks4hNHCN4WQ)
@@ -78,6 +78,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Force Required to Drag a Thin Plate Through Glycerin](https://youtu.be/gxqYpLeyeoI)
 - [Calculating the Internal Pressure of an Oil Droplet](https://youtu.be/gxqYpLeyeoI)
 - [Capillary Rise or Fall in a Glass Tube](https://youtu.be/NZikuQidD1c)
+- [Minimum Size of a Glass Tube for Capillary Rise in Ethanol ](https://youtu.be/PBC1J5NPAfQ)
+- [Estimate Minimum Diameter of a Glass Tube for Measuring Water Level with Restricted Capillary Rise](https://youtu.be/SGYeVrisbgE)
 - 
 
 ---
