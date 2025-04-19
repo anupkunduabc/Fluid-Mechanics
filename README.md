@@ -37,12 +37,16 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
 - [Pressure and Pressure Measurement Summary: Utube Manometer](https://youtu.be/MzrrxOUBc_g)
 - [Pressure Measurement by U-tube manometer](https://youtu.be/5ba06VFGaFs)
+- [pressure on Fluid Mechanics](https://youtube.com/shorts/ANwU2ayp-1k)
+- [pressure on Fluid Mechanics-B](https://youtube.com/shorts/-GMqTLW5aV0)
 - [Double U tube Manometer: Pressure measurement](https://youtu.be/ESrNSMZC89Y)
 - [Utube Manometer-1](https://youtube.com/shorts/8KpJiu-uWj8)
 - [Inverted U-Tube Manometer](https://youtube.com/shorts/bMoT4CbrC7g)
 - [Differential Manometer](https://youtube.com/shorts/FkAemds8VGA)
 - [Differential Manometer Head calculation](https://youtube.com/shorts/AC96XMorWhA)
-- Archimedes' principle & buoyancy
+- [Numerical on U-tube manometer](https://youtu.be/wzWtQAYskqw)
+- [An inverted U-tube manometer][https://youtu.be/6ZLq2UrbvlU]
+- [Archimedes' principle & buoyancy](https://youtube.com/shorts/8elxZ1LqFao)
 - Continuum hypothesis and field variables
 - Velocity and stress fields
 - Classification of fluid motion
@@ -61,16 +65,19 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Material Derivative /Substantial Derivative][https://youtube.com/shorts/Dmrl7fWxBSI]
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
-- Continuity and motion equations
+- [Application of flow Continuity](https://youtube.com/shorts/zLGoa9W44ig)
+- [Continuity and motion equations](Continuity Equations)
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - [Venturimeter ](https://youtube.com/shorts/g2TToNhPGH4)
 - [Bernoulli's Equation in Fluid Mechanics](https://youtube.com/shorts/Ld2bBODe6fk)
-- 
+- [Application of Bernoulli's Equation and Continuity Equation with Mistake](https://youtube.com/shorts/UYn3XRn-xds)
+- [Application of Bernoulli 's Equation](https://youtube.com/shorts/uxztF1Zc5rM)
 - Bernoulli’s equation & engineering applications
 - Correction factors
 - [Navier-Stokes equations](https://youtube.com/shorts/y7MdLsgogXI)
+- [Navier Stokes Equation -B](https://youtube.com/shorts/oqis8mQO7cc)
 - Flow measurement: Head meters, velocity probes
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
@@ -114,6 +121,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Flow through beds and porous media
 - [Sphericity  and Short Cylinder Sphericity Calculation](https://youtu.be/QbpW8QWBOQk)
 - [Ergun Equation for pressure drop across a packed bed](https://youtube.com/shorts/IhCl7ksuKmQ)
+- [Kozney Carman equations](https://youtube.com/shorts/xkfXTFL7OUw)
 - 
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
