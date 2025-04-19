@@ -98,6 +98,6 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ---
 
-📌 **Instructor**: Dr. Anup Kundu  
-📧 anupk@ssn.edu.in  
+📌 **Instructor**:  
+📧 
 🌐 [Subscribe to the Channel](https://www.youtube.com/@chemicalengineeringA)
