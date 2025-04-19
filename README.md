@@ -38,10 +38,13 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Double U tube Manometer: Pressure measurement](https://youtu.be/ESrNSMZC89Y)
 - [Utube Manometer-1](https://youtube.com/shorts/8KpJiu-uWj8)
 - [Inverted U-Tube Manometer](https://youtube.com/shorts/bMoT4CbrC7g)
+- [Differential Manometer](https://youtube.com/shorts/FkAemds8VGA)
+- [Differential Manometer Head calculation](https://youtube.com/shorts/AC96XMorWhA)
 - Archimedes' principle & buoyancy
 - Continuum hypothesis and field variables
 - Velocity and stress fields
 - Classification of fluid motion
+- [Steady Unsteady uniform non-uniform flow](https://youtube.com/shorts/EdpaaBm9xfw)
 - 
 
 🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
@@ -123,7 +126,11 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Valves and their selection
 - Utility networks: Steam, CW, chilled water, thermic fluid
 
-🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
+### ⚙️ Key Formulas
+
+[Key Formulas   Fluid Mechanics ](https://youtube.com/shorts/8cixVLrz32s)
+[Key Formulas for Fluid Mechanics](https://youtube.com/shorts/qgbLo-p7GBI)
+[Key Formulas Bernoulli's Equation](https://youtube.com/shorts/jgZpSJfhjwg)
 
 
 
