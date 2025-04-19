@@ -73,6 +73,12 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Kinematic Viscosity Calculation](https://youtu.be/gn7WpNE67mQ)
 - [Converting Viscosity and Calculating Kinematic Viscosity for Water at 75°C](https://youtu.be/Ks4hNHCN4WQ)
 - [Find the Surface Tension in a Soap Bubble of D =50 mm  with an Inside Pressure of 3.0 N/m² Above Atm](https://youtu.be/cwtmlzxgJmk)
+- [Determining the Kinematic Viscosity of Motor Oil at 60°C](https://youtu.be/N3oPC-ZrDv8)
+- [Determining the Velocity of a Thin Flat Plate Pulled Through Oil](https://youtu.be/L0utqbNkXNw)
+- [Force Required to Drag a Thin Plate Through Glycerin](https://youtu.be/gxqYpLeyeoI)
+- [Calculating the Internal Pressure of an Oil Droplet](https://youtu.be/gxqYpLeyeoI)
+- [Capillary Rise or Fall in a Glass Tube](https://youtu.be/NZikuQidD1c)
+- 
 
 ---
 
