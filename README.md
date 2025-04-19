@@ -89,14 +89,17 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Estimate Minimum Diameter of a Glass Tube for Measuring Water Level with Restricted Capillary Rise](https://youtu.be/SGYeVrisbgE)
 - [Inverted U-tube Manometer](https://youtube.com/shorts/SJTKkm19z84)
 - [Pressure Measurement: U-tube Manometer](https://youtube.com/shorts/HUyYoOkmEDo)
+- [Inverted U-Tube Manometer: A Tool for Pressure Measurement](https://youtu.be/qy5X-2NeB_Y)
+- 
 - 
 
 ---
 
 ### 🔁 💧UNIT II: Kinematics of Fluid Flow
 
-- Flow types: Laminar vs Turbulent
+- [Flow types: Laminar vs Turbulent](https://youtu.be/9vGKPxDU1-Q)
 - [Mass Flow Rate and Volumetric Flow Rate](https://youtu.be/qn9CDHnMBaM)
+- [Mass and Volumetric Flow Rate Calculations](https://youtu.be/b7J2Edj93go)
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - [Reynolds number and flow regimes](https://youtu.be/vzBXbDyjCFU)
 - [Types of Forces Acting in Moving Fluid](https://youtu.be/3IBs0TXqq2I)
@@ -115,6 +118,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
 - [Derivation of the Navier-Stokes Equations][https://youtu.be/fpp9wgnbg80]
+- [Bernoulli’s Equation: Fluid Flow in a Pipe](https://youtu.be/6nhu8WL6mTU)
 - [Derivation of Bernoulli's Equation from Euler's Equations](https://youtu.be/tkYdv5AHieQ)
 - [Exploring the Various Forms of Bernoulli's Equation](https://youtu.be/kacp8gYAQTE)
 - [Calculating Flow Direction and Head Loss in an Oil Pipeline Using Bernoulli's Equation](https://youtu.be/VdXgc9cwENs)
@@ -126,12 +130,17 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Application of Bernoulli's Equation and Continuity Equation with Mistake](https://youtube.com/shorts/UYn3XRn-xds)
 - [Application of Bernoulli 's Equation](https://youtube.com/shorts/uxztF1Zc5rM)
 - Bernoulli’s equation & engineering applications
-- Correction factors
+- [Kinetic Energy and Momentum Correction Factors in Fluid Dynamics](https://youtu.be/4z-9DRRnHBY)
 - [Navier-Stokes equations](https://youtube.com/shorts/y7MdLsgogXI)
 - [Navier Stokes Equation -B](https://youtube.com/shorts/oqis8mQO7cc)
 - Flow measurement: Head meters, velocity probes
+- [Analysis of Fully Developed Laminar Flow Down an Inclined Plane Surface](https://youtu.be/f7KXa7AtXrM)
+- [Analyzing Laminar Flow Through a Circular Pipe: Understanding Velocity Profiles](https://youtu.be/_aFgxCAR0-4)
+- [Laminar Flow in Horizontal Circular Pipes: Velocity Profiles and Shear Stress Distribution](https://youtu.be/ULoKZiccPAY)
+- [Harnessing Bernoulli's Equation: Determining Jet Velocity from a Hose Nozzle](https://youtu.be/aTrleBDc7T8)
+- []
+- 
 
-🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
 ---
 
@@ -155,7 +164,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Pipe flows: Laminar and turbulent
 - [Hagen Poiseuille Equation](https://youtu.be/k0GQkIQJWqY)
 - [Hagen Poiseuille equation](https://youtube.com/shorts/X6nAog2J3zs)
+- [Hagen-Poiseuille Equation](https://youtu.be/S1TDFxVOH5k)
+- [Relationships of maximum velocity with average velocity and friction factor (𝑓) =16/ (Re).](https://youtu.be/Ifljlh1U7Ro)
 - [Key Formula  for Steady Laminar Flow Through a Circular Pipe](https://youtube.com/shorts/lyNgZVK7Qfs)
+- [Couette Flow: Velocity Profile, Maximum Velocity, and Location of Maximum Velocity](https://youtu.be/Jz8Vkm_RCbI)
 - Pressure drop calculations, losses
 - [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/0frU3uPo6jU)
 - [Fanning Friction Factor Shear Stress and Velocity Head f=16/Re](https://youtu.be/FSKMytXlpAw)
@@ -166,6 +178,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Calculate the Darcy friction factor (f) in pipe flow from the Colebrook equation](https://youtu.be/MB2kL51io9g)
 - [Friction Factor calculation by MATLAB Using the Colebrook Equation](https://youtu.be/Jm-30TlsBWI)
 - [Friction factor  Colebrook equation Goal Seek](https://youtube.com/shorts/v255AfIoOn0)
+- [Laminar Flow through an Annulus](https://youtu.be/dWy61V_gaJM)
+- [Flow of fluids through the annular space between two coaxial pipes](https://youtu.be/DoAIIvt_keU)
+- [Laminar Flow in Rotating Cylindrical Annuli](https://youtu.be/PKdLAZYNoys)
 - Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
