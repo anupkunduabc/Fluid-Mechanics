@@ -99,6 +99,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Darcy-Weisbach formula](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Friction factor by Colebrook equation by Goal Seek Excel  and Pressure drop](https://youtu.be/P6vSM4dCEKE)
 - [Major and Minor Losses, Moody Chart](https://youtu.be/OX3awSn6rW8)
+- [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/PiB3rkHOUaE)
+- [Calculate the Darcy friction factor (f) in pipe flow from the Colebrook equation](https://youtu.be/MB2kL51io9g)
+- [Friction Factor calculation by MATLAB Using the Colebrook Equation](https://youtu.be/Jm-30TlsBWI)
+- [Friction factor  Colebrook equation Goal Seek](https://youtube.com/shorts/v255AfIoOn0)
 - Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
