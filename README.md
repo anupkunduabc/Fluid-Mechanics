@@ -52,6 +52,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - Continuity and motion equations
+- [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
+- [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - Bernoulli’s equation & engineering applications
 - Correction factors
 - Navier-Stokes equations
@@ -64,6 +66,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 📏 UNIT III: Dimensional Analysis & Particle Dynamics (9 Hours)
 
 - Dimensional homogeneity
+- [Rayleigh method for dimensional analysis](https://youtu.be/3S8S0NRIvI4)
+- [Buckingham's π Theorem](https://youtu.be/DYGkRvyYzwg)
 - Rayleigh & Buckingham Pi methods
 - Important dimensionless numbers
 - Similitude and scale-up
@@ -77,8 +81,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 🚰 UNIT IV: Internal & External Flows (9 Hours)
 
 - Pipe flows: Laminar and turbulent
+- [Hagen Poiseuille Equation](https://youtu.be/k0GQkIQJWqY)
 - Pressure drop calculations, losses
 - [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/0frU3uPo6jU)
+- [Fanning Friction Factor Shear Stress and Velocity Head f=16/Re](https://youtu.be/FSKMytXlpAw)
 - [Darcy-Weisbach formula](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Friction factor by Colebrook equation by Goal Seek Excel  and Pressure drop](https://youtu.be/P6vSM4dCEKE)
 - []()
@@ -96,6 +102,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Fluid machinery characteristics and selection
 - [Pumping Power](https://youtube.com/shorts/dl2PVBtihOU)
 - [Pumping Power Calculation](https://youtube.com/shorts/dl2PVBtihOU)
+- [Pumping Power  Calculation](https://youtu.be/_NL9xdt5jYE)
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
 - Cavitation, NPSH, priming
