@@ -114,9 +114,14 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
-- 
+- [Derivation of the Navier-Stokes Equations][https://youtu.be/fpp9wgnbg80]
+- [Derivation of Bernoulli's Equation from Euler's Equations](https://youtu.be/tkYdv5AHieQ)
+- [Exploring the Various Forms of Bernoulli's Equation](https://youtu.be/kacp8gYAQTE)
+- [Calculating Flow Direction and Head Loss in an Oil Pipeline Using Bernoulli's Equation](https://youtu.be/VdXgc9cwENs)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - [Venturimeter ](https://youtube.com/shorts/g2TToNhPGH4)
+- [Flow Measurement:  Orifice Meter](https://youtu.be/Pdisf2c3PXA)
+- [Fluid velocity Measurement:  Pitot Tube](https://youtu.be/kvRy1a8mcmE)
 - [Bernoulli's Equation in Fluid Mechanics](https://youtube.com/shorts/Ld2bBODe6fk)
 - [Application of Bernoulli's Equation and Continuity Equation with Mistake](https://youtube.com/shorts/UYn3XRn-xds)
 - [Application of Bernoulli 's Equation](https://youtube.com/shorts/uxztF1Zc5rM)
