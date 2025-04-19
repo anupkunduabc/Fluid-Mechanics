@@ -101,6 +101,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Reynolds number and flow regimes](https://youtu.be/vzBXbDyjCFU)
 - [Types of Forces Acting in Moving Fluid](https://youtu.be/3IBs0TXqq2I)
 - [fluid forces](https://youtube.com/shorts/Ss1odbzSwYk)
+- [Exploring Material Derivatives in Fluid Dynamics and Their Connection to Acceleration](https://youtu.be/hdSr8AxZBfw)
+- [Analyzing Velocity and Acceleration in a Dynamic Fluid Flow](https://youtu.be/yv5TKqBmGAc)
+- [Analyzing Steady Incompressible Fluid Flow and Particle Kinematics](https://youtu.be/_EgC-nGmjYE)
 - [Material Derivative /Substantial Derivative](https://youtube.com/shorts/Dmrl7fWxBSI)
 - [Derivation of 3D Continuity Equation and Special Cases](https://youtu.be/jWszNf-SNAA)
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
@@ -110,6 +113,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Understanding the Continuity Equation for Pipe Flow ](https://youtu.be/py15pIw6eaM)
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
+- [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
+- 
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - [Venturimeter ](https://youtube.com/shorts/g2TToNhPGH4)
 - [Bernoulli's Equation in Fluid Mechanics](https://youtube.com/shorts/Ld2bBODe6fk)
