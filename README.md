@@ -16,6 +16,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ### 📦 🧪UNIT I: Fluid Statics
 - [Fluid Properties: Fluid Density](https://youtu.be/ExUKuww8YJg)
+- [Fluid properties: weight, density,  unit weight,  specific gravity, specific volume.](https://youtu.be/rbWSWHwnwBA)
+- [Dynamic Viscosity and kinematic viscosity](https://youtu.be/LAVJfO653So)
 - [Specific Weight, Specific Volume and  Specific Gravity](https://youtu.be/vDMngQ6bLm0)
 - [Specific Gravity Calculation Using Ideal gas Law](https://youtu.be/dP-a7AYTV_M)
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
@@ -25,13 +27,21 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
 - [compressibility and Bulk modulus](https://youtube.com/shorts/_GFssNpbXFQ)
 - [Viscosity & Kinematic Viscosity](https://youtube.com/shorts/ZUzv4Prdvow)
+- [Sliding Plate on an Inclined Plane: Viscosity and Kinematic Viscosity Calculation](https://youtu.be/qDANywxpdS4)
 - [Surface Tension and Compressibility](https://youtube.com/shorts/bRd-NxuhFOM)
 - [Capillary rise and fall](https://youtube.com/shorts/dCSSwj9vQvI)
+- [Capillary Rise in Water](https://youtube.com/shorts/I3u8WLjzo-Y)
+- [Adhesion and Cohesion](https://youtube.com/shorts/7bmgwVcJlSQ)
 - [surface tension on liquid droplet](https://youtube.com/shorts/2-J2nksMGMk)
+- [Surface tension on Liquid droplet](https://youtube.com/shorts/FNT-WJ5XlF4)
 - [Newtonian & non-Newtonian fluids](https://youtube.com/shorts/HnEOqSBlzuM)
+- [Calculating the Dynamic Viscosity of an Oil for Lubrication](https://youtu.be/Si0sFRPrWps)
+- [Determining the Viscosity of a Fluid Between Plates](https://youtu.be/sdRHCab5IQ8)
+- [Force and Power Required to Move a Plate Over a Fixed Plate](https://youtu.be/hfmukWphXpQ)
 - [Stress-strain plot for non-Newtonian and Newtonian fluids](https://youtube.com/shorts/F60G8jF-Vac)
 - [Solving Numerical Problems on Newton’s Law of Viscosity](https://youtu.be/MQnr7RIs0-M)
-- 
+- [Capillary Fall or Depression in Mercury](https://youtube.com/shorts/-fkFu3l6kMA)
+- [Calculation of Water Droplet Diameter Using Surface Tension](https://youtu.be/-PSPCJKWiCQ)
 - [Pressure units](https://youtube.com/shorts/Gl6jF6qVjJI)
 - Pressure-density relation for ideal gas
 - [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
