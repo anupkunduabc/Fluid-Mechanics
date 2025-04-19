@@ -68,6 +68,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Partially Immersed Object: Bouyancy](https://youtube.com/shorts/gCdoangZz6Q)
 - [Sinking Object: Buoyancy, Archimedes' Principle](https://youtube.com/shorts/k-VsiEQVXwA)
 - [Bouyancy of Submerged Object](https://youtube.com/shorts/IqKNH7wEyAE)
+- [Calculating Pressure Differences with Inclined Manometers](https://youtu.be/GhdI1dUDpW0)
+- [Calculating pressures using a multifluid manometer](https://youtu.be/hOCsj70GDHU)
+- 
 - 
 - Continuum hypothesis and field variables
 - Velocity and stress fields
@@ -90,6 +93,14 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Inverted U-tube Manometer](https://youtube.com/shorts/SJTKkm19z84)
 - [Pressure Measurement: U-tube Manometer](https://youtube.com/shorts/HUyYoOkmEDo)
 - [Inverted U-Tube Manometer: A Tool for Pressure Measurement](https://youtu.be/qy5X-2NeB_Y)
+- [Exploring the Multi-Fluid U-Tube Manometer: Precision in Pressure Measurement](https://youtu.be/6M71CYrjzF0)
+- [Mastering Pressure Measurements: Understanding Absolute, Atmospheric, and Gauge Pressure](https://youtu.be/ZrUvagDDF2Y)
+- [Pressure Drop Calculation with a Compound Manometer](https://youtu.be/CrRArnuWDbk)
+- [Calculation for Acceleration Components](https://youtu.be/k6xp6WzVJwQ)
+- 
+- 
+- 
+- 
 - 
 - 
 
@@ -138,7 +149,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Analyzing Laminar Flow Through a Circular Pipe: Understanding Velocity Profiles](https://youtu.be/_aFgxCAR0-4)
 - [Laminar Flow in Horizontal Circular Pipes: Velocity Profiles and Shear Stress Distribution](https://youtu.be/ULoKZiccPAY)
 - [Harnessing Bernoulli's Equation: Determining Jet Velocity from a Hose Nozzle](https://youtu.be/aTrleBDc7T8)
-- []
+- [Applying the Continuity Equation and Mass Balance in Flow Through Pipe Modeling](https://youtu.be/kV5qqjjeaQs)
+- [Application of Bernoulli's equation of Pipe Flow](https://youtu.be/NXqid1AylT8)
+- 
+- 
 - 
 
 
