@@ -15,7 +15,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### 📦 🧪UNIT I: Fluid Statics
 - [Fluid Properties: Fluid Density](https://youtu.be/ExUKuww8YJg)
 - [Specific Weight, Specific Volume and  Specific Gravity](https://youtu.be/vDMngQ6bLm0)
-- [Specific Gravity Calculation Using Ideal gas Law](https://youtu.be/dP-a7AYTV)
+- [Specific Gravity Calculation Using Ideal gas Law](https://youtu.be/dP-a7AYTV_M)
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
