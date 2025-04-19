@@ -62,7 +62,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Differential Manometer](https://youtube.com/shorts/FkAemds8VGA)
 - [Differential Manometer Head calculation](https://youtube.com/shorts/AC96XMorWhA)
 - [Numerical on U-tube manometer](https://youtu.be/wzWtQAYskqw)
-- [An inverted U-tube manometer][https://youtu.be/6ZLq2UrbvlU]
+- [An inverted U-tube manometer](https://youtu.be/6ZLq2UrbvlU)
 - [Archimedes' principle & buoyancy](https://youtube.com/shorts/8elxZ1LqFao)
 - [Bouyant Force: Archimedes' Principle](https://youtube.com/shorts/0K2He3r_KKI)
 - [Partially Immersed Object: Bouyancy](https://youtube.com/shorts/gCdoangZz6Q)
@@ -87,6 +87,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Capillary Rise or Fall in a Glass Tube](https://youtu.be/NZikuQidD1c)
 - [Minimum Size of a Glass Tube for Capillary Rise in Ethanol ](https://youtu.be/PBC1J5NPAfQ)
 - [Estimate Minimum Diameter of a Glass Tube for Measuring Water Level with Restricted Capillary Rise](https://youtu.be/SGYeVrisbgE)
+- [Inverted U-tube Manometer](https://youtube.com/shorts/SJTKkm19z84)
+- [Pressure Measurement: U-tube Manometer](https://youtube.com/shorts/HUyYoOkmEDo)
 - 
 
 ---
