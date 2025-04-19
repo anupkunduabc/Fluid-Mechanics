@@ -69,6 +69,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - 
 
 🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
+-🎥 Numerical 
+- [Kinematic Viscosity Calculation](https://youtu.be/gn7WpNE67mQ)
+- [Converting Viscosity and Calculating Kinematic Viscosity for Water at 75°C](https://youtu.be/Ks4hNHCN4WQ)
+- [Find the Surface Tension in a Soap Bubble of D =50 mm  with an Inside Pressure of 3.0 N/m² Above Atm](https://youtu.be/cwtmlzxgJmk)
 
 ---
 
