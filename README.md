@@ -19,6 +19,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
+- [compressibility and Bulk modulus](https://youtube.com/shorts/_GFssNpbXFQ)
 - [Viscosity & Kinematic Viscosity](https://youtube.com/shorts/ZUzv4Prdvow)
 - [Surface Tension and Compressibility](https://youtube.com/shorts/bRd-NxuhFOM)
 - [Capillary rise and fall](https://youtube.com/shorts/dCSSwj9vQvI)
@@ -32,38 +33,43 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
 - Pascal’s Law and manometers
 - [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
+- [Pressure and Pressure Measurement Summary: Utube Manometer](https://youtu.be/MzrrxOUBc_g)
 - [Pressure Measurement by U-tube manometer](https://youtu.be/5ba06VFGaFs)
 - [Double U tube Manometer: Pressure measurement](https://youtu.be/ESrNSMZC89Y)
 - [Utube Manometer-1](https://youtube.com/shorts/8KpJiu-uWj8)
+- [Inverted U-Tube Manometer](https://youtube.com/shorts/bMoT4CbrC7g)
 - Archimedes' principle & buoyancy
 - Continuum hypothesis and field variables
 - Velocity and stress fields
 - Classification of fluid motion
+- 
 
-🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
+🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
 
 ---
 
-### 🔁 💧UNIT II: Kinematics of Fluid Flow (9 Hours)
+### 🔁 💧UNIT II: Kinematics of Fluid Flow
 
 - Flow types: Laminar vs Turbulent
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - Reynolds number and flow regimes
+- [Material Derivative /Substantial Derivative][https://youtube.com/shorts/Dmrl7fWxBSI]
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - Continuity and motion equations
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
+- [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - Bernoulli’s equation & engineering applications
 - Correction factors
-- Navier-Stokes equations
+- [Navier-Stokes equations](https://youtube.com/shorts/y7MdLsgogXI)
 - Flow measurement: Head meters, velocity probes
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
 ---
 
-### 📏 UNIT III: Dimensional Analysis & Particle Dynamics (9 Hours)
+### 📏 UNIT III: Dimensional Analysis & Particle Dynamics
 
 - Dimensional homogeneity
 - [Rayleigh method for dimensional analysis](https://youtu.be/3S8S0NRIvI4)
@@ -78,31 +84,39 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ---
 
-### 🚰 UNIT IV: Internal & External Flows (9 Hours)
+### 🚰 UNIT IV: Internal & External Flows
 
 - Pipe flows: Laminar and turbulent
 - [Hagen Poiseuille Equation](https://youtu.be/k0GQkIQJWqY)
+- [Hagen Poiseuille equation](https://youtube.com/shorts/X6nAog2J3zs)
+- [Key Formula  for Steady Laminar Flow Through a Circular Pipe](https://youtube.com/shorts/lyNgZVK7Qfs)
 - Pressure drop calculations, losses
 - [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/0frU3uPo6jU)
 - [Fanning Friction Factor Shear Stress and Velocity Head f=16/Re](https://youtu.be/FSKMytXlpAw)
 - [Darcy-Weisbach formula](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Friction factor by Colebrook equation by Goal Seek Excel  and Pressure drop](https://youtu.be/P6vSM4dCEKE)
-- []()
+- [Major and Minor Losses, Moody Chart](https://youtu.be/OX3awSn6rW8)
 - Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
 - Flow through beds and porous media
+- [Sphericity  and Short Cylinder Sphericity Calculation](https://youtu.be/QbpW8QWBOQk)
+- [Ergun Equation for pressure drop across a packed bed](https://youtube.com/shorts/IhCl7ksuKmQ)
+- 
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
 ---
 
-### ⚙️ UNIT V: Fluid Machinery & Utility Systems (9 Hours)
+### ⚙️ UNIT V: Fluid Machinery & Utility Systems
 
 - Fluid machinery characteristics and selection
 - [Pumping Power](https://youtube.com/shorts/dl2PVBtihOU)
 - [Pumping Power Calculation](https://youtube.com/shorts/dl2PVBtihOU)
 - [Pumping Power  Calculation](https://youtu.be/_NL9xdt5jYE)
+- [Pumping Power Calculation: Bernoulli Equation Approach](https://youtu.be/rDekfxJFMoI)
+- [Net Positive suction Head & Cavitation in a Centrifugal Pump](https://youtu.be/9TlmaX1xWas)
+- [Net Positive Suction Head (NPSH) Numerical](https://youtube.com/shorts/S39L0A_4Nd8)
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
 - Cavitation, NPSH, priming
