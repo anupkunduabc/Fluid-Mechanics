@@ -19,6 +19,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Specific Weight, Specific Volume and  Specific Gravity](https://youtu.be/vDMngQ6bLm0)
 - [Specific Gravity Calculation Using Ideal gas Law](https://youtu.be/dP-a7AYTV_M)
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
+- [Difference between liquid and gas](https://youtube.com/shorts/dBjTVbsnUck)
+- [Difference among Solid, Liquid, and Gas](https://youtube.com/shorts/amX1yzjrkrg)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
 - [compressibility and Bulk modulus](https://youtube.com/shorts/_GFssNpbXFQ)
@@ -27,6 +29,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Capillary rise and fall](https://youtube.com/shorts/dCSSwj9vQvI)
 - [surface tension on liquid droplet](https://youtube.com/shorts/2-J2nksMGMk)
 - [Newtonian & non-Newtonian fluids](https://youtube.com/shorts/HnEOqSBlzuM)
+- [Stress-strain plot for non-Newtonian and Newtonian fluids](https://youtube.com/shorts/F60G8jF-Vac)
+- [Solving Numerical Problems on Newton’s Law of Viscosity](https://youtu.be/MQnr7RIs0-M)
+- 
 - [Pressure units](https://youtube.com/shorts/Gl6jF6qVjJI)
 - Pressure-density relation for ideal gas
 - [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
@@ -119,6 +124,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Boundary layer theory
 - Flow over objects: Drag and lift
 - Flow through beds and porous media
+- [Terminal Velocity GATE Questions][https://youtube.com/shorts/13jdizyQGLM]
+- [Motion of Particle through Fluid ](https://youtube.com/shorts/JeVre3SauFI)
+- [Terminal velocity of a particle in a fluid ](https://youtube.com/shorts/fyB0W2K1GE0)
 - [Sphericity  and Short Cylinder Sphericity Calculation](https://youtu.be/QbpW8QWBOQk)
 - [Ergun Equation for pressure drop across a packed bed](https://youtube.com/shorts/IhCl7ksuKmQ)
 - [Kozney Carman equations](https://youtube.com/shorts/xkfXTFL7OUw)
