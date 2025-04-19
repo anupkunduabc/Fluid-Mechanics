@@ -97,13 +97,15 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Mastering Pressure Measurements: Understanding Absolute, Atmospheric, and Gauge Pressure](https://youtu.be/ZrUvagDDF2Y)
 - [Pressure Drop Calculation with a Compound Manometer](https://youtu.be/CrRArnuWDbk)
 - [Calculation for Acceleration Components](https://youtu.be/k6xp6WzVJwQ)
+- [Measuring Pressure Differences: Double U-Tube Multifluid Manometer](https://youtu.be/AqWzueVFb8M)
+- [Pressure Measurement with Double U-Tube Multifluid Manometer](https://youtu.be/t4J_iJppda8)
+- [Understanding Vacuum Pressure in a Compound Manometer](https://youtu.be/yxNMk-10RKM)
+- [Major and Minor Losses in Piping Systems](https://youtu.be/XZHcCBF97lQ)
+- [Determining Pressure Difference Between Two Points in a Fluid System](https://youtu.be/LldX7KtIdiM)
 - 
 - 
 - 
 - 
-- 
-- 
-
 ---
 
 ### 🔁 💧UNIT II: Kinematics of Fluid Flow
@@ -172,7 +174,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Buckingham's π Theorem](https://youtu.be/DYGkRvyYzwg)
 - [Dimensional Analysis Rayleigh’s Method](https://youtu.be/oN7uc_SIdBQ)
 - [Dimensional Analysis  Rayleigh’s Method for Pendulum](https://youtu.be/a9gM_fUP0Jw)
-- []
+- [Dimensions of Physical Quantities](https://youtube.com/shorts/r1bzlmNqAsA)
 <!--- Rayleigh & Buckingham Pi methods
 - Important dimensionless numbers
 - Similitude and scale-up
@@ -189,10 +191,12 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Hagen Poiseuille Equation](https://youtu.be/k0GQkIQJWqY)
 - [Hagen Poiseuille equation](https://youtube.com/shorts/X6nAog2J3zs)
 - [Hagen-Poiseuille Equation](https://youtu.be/S1TDFxVOH5k)
+- [Understanding Viscous Flow in Circular Pipes: Basics and Insights](https://youtu.be/IvfRluRjLfQ)
+- [Calculation of  Friction Factor, Average Flow, and Reynolds Number in Circular Pipes](https://youtu.be/kg9m5hyCTxc)
 - [Relationships of maximum velocity with average velocity and friction factor (𝑓) =16/ (Re).](https://youtu.be/Ifljlh1U7Ro)
 - [Key Formula  for Steady Laminar Flow Through a Circular Pipe](https://youtube.com/shorts/lyNgZVK7Qfs)
 - [Couette Flow: Velocity Profile, Maximum Velocity, and Location of Maximum Velocity](https://youtu.be/Jz8Vkm_RCbI)
-- Pressure drop calculations, losses
+- [Application of Bernoulli's Equation: Gauge Pressure Calculation in pipe flow](https://youtu.be/pSqfMS8nTWk)
 - [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/0frU3uPo6jU)
 - [Fanning Friction Factor Shear Stress and Velocity Head f=16/Re](https://youtu.be/FSKMytXlpAw)
 - [Darcy-Weisbach formula](https://youtube.com/shorts/Z0Hn7aTJgug)
@@ -234,6 +238,13 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [pumping Power calculation ](https://youtu.be/ul-rPZEaa2I)
 - [Pumping power calculation by Bernoulli equation](https://youtu.be/1Hw99QmLZTU)
 - [Powering the Flow: Calculating Pressure Difference Across the Pump and Pumping Power Calculation](https://youtu.be/ch3tCfRiBNc)
+- [Calculating Net Positive Suction Head (NPSH) for a Centrifugal Pump ](https://youtu.be/qHcvXrq4TLU)
+- [Powering the Pump: Pressure and Power Calculations for Fluid Transfer](https://youtu.be/KLH8BzgkXCU)
+- [Measuring Pump Performance: Absolute Discharge Pressure at Pump Exit](https://youtu.be/TaXULmfR1Pc)
+- [Powering Water Flow: Calculating the Power Supplied by the Pump](https://youtu.be/KH0JOXXdJyU)
+- [Calculating Head Loss in a Glass Pipe Using Moody Diagram and Darcy-Weisbach Equation](https://youtu.be/pSRKE6Tx9Sc)
+- [Pump Power Calculation for Water Flow in a Pipe ](https://youtu.be/vawUEiHa1JY)
+- 
 - 
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
