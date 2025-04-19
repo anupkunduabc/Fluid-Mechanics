@@ -209,10 +209,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Laminar Flow through an Annulus](https://youtu.be/dWy61V_gaJM)
 - [Flow of fluids through the annular space between two coaxial pipes](https://youtu.be/DoAIIvt_keU)
 - [Laminar Flow in Rotating Cylindrical Annuli](https://youtu.be/PKdLAZYNoys)
-- Design of piping systems
+<!---- Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
-- Flow through beds and porous media
+- Flow through beds and porous media-->
 - [Terminal Velocity GATE Questions](https://youtube.com/shorts/13jdizyQGLM)
 - [Motion of Particle through Fluid ](https://youtube.com/shorts/JeVre3SauFI)
 - [Terminal velocity of a particle in a fluid ](https://youtube.com/shorts/fyB0W2K1GE0)
@@ -244,8 +244,6 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Powering Water Flow: Calculating the Power Supplied by the Pump](https://youtu.be/KH0JOXXdJyU)
 - [Calculating Head Loss in a Glass Pipe Using Moody Diagram and Darcy-Weisbach Equation](https://youtu.be/pSRKE6Tx9Sc)
 - [Pump Power Calculation for Water Flow in a Pipe ](https://youtu.be/vawUEiHa1JY)
-- 
-- 
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
 - Cavitation, NPSH, priming
