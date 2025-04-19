@@ -128,9 +128,9 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ### ⚙️ Key Formulas
 
-[Key Formulas   Fluid Mechanics ](https://youtube.com/shorts/8cixVLrz32s)
-[Key Formulas for Fluid Mechanics](https://youtube.com/shorts/qgbLo-p7GBI)
-[Key Formulas Bernoulli's Equation](https://youtube.com/shorts/jgZpSJfhjwg)
+- [Key Formulas   Fluid Mechanics ](https://youtube.com/shorts/8cixVLrz32s)
+- [Key Formulas for Fluid Mechanics-2](https://youtube.com/shorts/qgbLo-p7GBI)
+- [Key Formulas Bernoulli's Equation](https://youtube.com/shorts/jgZpSJfhjwg)
 
 
 
