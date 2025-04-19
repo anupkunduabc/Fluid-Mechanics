@@ -9,10 +9,13 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ## 📘 Course Syllabus
 - [Chemical Engineering as a Career Choice](https://youtu.be/QjlDN_qnJIo)
 - [Chemical Engineering Graduates: How Software Will Transform Your Career?](https://youtu.be/QjlDN_qnJIo)
+- [Fluid Mechanics in the context of Chemical Engineering](https://youtu.be/P6vSM4dCEKE)
+- [Chemical Engineering Books for GATE Preparation](https://youtu.be/IfC9wqBA-uE)
 
 ### 📦 🧪UNIT I: Fluid Statics
 - [Fluid Properties: Fluid Density](https://youtu.be/ExUKuww8YJg)
 - [Specific Weight, Specific Volume and  Specific Gravity](https://youtu.be/vDMngQ6bLm0)
+- [Specific Gravity Calculation Using Ideal gas Law][https://youtu.be/dP-a7AYTV_M]
 - [Density Specific gravity, volume ](https://youtube.com/shorts/Hx1ohC3dNjc)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
@@ -25,6 +28,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Pressure-density relation for ideal gas
 - [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
 - [Pascal's Law & Hydrostatic pressure  variation](https://youtube.com/shorts/39hGvQ5fXGs)
+- [GATE 2019: Fluid Mechanics - Application of Pascal's Law](https://youtu.be/xcVUZfzZXH8)
 - Hydrostatic equilibrium: Gravity & centrifugal force fields
 - Pascal’s Law and manometers
 - [Pressure & Pressure Measurement : Barometer](https://youtu.be/odorGgVxM_Y)
@@ -46,6 +50,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - Reynolds number and flow regimes
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
+- [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - Continuity and motion equations
 - Bernoulli’s equation & engineering applications
 - Correction factors
@@ -73,7 +78,10 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 - Pipe flows: Laminar and turbulent
 - Pressure drop calculations, losses
+- [Friction Factor calculation  Using the Colebrook Equation](https://youtu.be/0frU3uPo6jU)
 - [Darcy-Weisbach formula](https://youtube.com/shorts/Z0Hn7aTJgug)
+- [Friction factor by Colebrook equation by Goal Seek Excel  and Pressure drop](https://youtu.be/P6vSM4dCEKE)
+- []()
 - Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
@@ -86,6 +94,8 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ### ⚙️ UNIT V: Fluid Machinery & Utility Systems (9 Hours)
 
 - Fluid machinery characteristics and selection
+- [Pumping Power](https://youtube.com/shorts/dl2PVBtihOU)
+- [Pumping Power Calculation](https://youtube.com/shorts/dl2PVBtihOU)
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
 - Cavitation, NPSH, priming
