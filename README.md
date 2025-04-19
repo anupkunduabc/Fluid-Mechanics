@@ -97,9 +97,11 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 - Flow types: Laminar vs Turbulent
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
-- Reynolds number and flow regimes
+- [Reynolds number and flow regimes](https://youtu.be/vzBXbDyjCFU)
+- [Types of Forces Acting in Moving Fluid](https://youtu.be/3IBs0TXqq2I)
 - [fluid forces](https://youtube.com/shorts/Ss1odbzSwYk)
 - [Material Derivative /Substantial Derivative][https://youtube.com/shorts/Dmrl7fWxBSI]
+- [Derivation of 3D Continuity Equation and Special Cases](https://youtu.be/jWszNf-SNAA)
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - [Application of flow Continuity](https://youtube.com/shorts/zLGoa9W44ig)
