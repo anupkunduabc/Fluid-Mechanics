@@ -26,6 +26,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Universal Gas Constant (R)](https://youtube.com/shorts/CPGdGNx_MQ0)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
 - [compressibility and Bulk modulus](https://youtube.com/shorts/_GFssNpbXFQ)
+- [Compressible and Incompressible Fluids](https://youtu.be/SH4m7JxouAc)
 - [Viscosity & Kinematic Viscosity](https://youtube.com/shorts/ZUzv4Prdvow)
 - [Sliding Plate on an Inclined Plane: Viscosity and Kinematic Viscosity Calculation](https://youtu.be/qDANywxpdS4)
 - [Surface Tension and Compressibility](https://youtube.com/shorts/bRd-NxuhFOM)
@@ -34,6 +35,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Adhesion and Cohesion](https://youtube.com/shorts/7bmgwVcJlSQ)
 - [surface tension on liquid droplet](https://youtube.com/shorts/2-J2nksMGMk)
 - [Surface tension on Liquid droplet](https://youtube.com/shorts/FNT-WJ5XlF4)
+- [Types of Fluid Flow](https://youtube.com/shorts/gjBqKAp8qLo)
 - [Newtonian & non-Newtonian fluids](https://youtube.com/shorts/HnEOqSBlzuM)
 - [Calculating the Dynamic Viscosity of an Oil for Lubrication](https://youtu.be/Si0sFRPrWps)
 - [Determining the Viscosity of a Fluid Between Plates](https://youtu.be/sdRHCab5IQ8)
@@ -62,6 +64,11 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Numerical on U-tube manometer](https://youtu.be/wzWtQAYskqw)
 - [An inverted U-tube manometer][https://youtu.be/6ZLq2UrbvlU]
 - [Archimedes' principle & buoyancy](https://youtube.com/shorts/8elxZ1LqFao)
+- [Bouyant Force: Archimedes' Principle](https://youtube.com/shorts/0K2He3r_KKI)
+- [Partially Immersed Object: Bouyancy](https://youtube.com/shorts/gCdoangZz6Q)
+- [Sinking Object: Buoyancy, Archimedes' Principle](https://youtube.com/shorts/k-VsiEQVXwA)
+- [Bouyancy of Submerged Object](https://youtube.com/shorts/IqKNH7wEyAE)
+- 
 - Continuum hypothesis and field variables
 - Velocity and stress fields
 - Classification of fluid motion
@@ -89,6 +96,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Flow types: Laminar vs Turbulent
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - Reynolds number and flow regimes
+- [fluid forces](https://youtube.com/shorts/Ss1odbzSwYk)
 - [Material Derivative /Substantial Derivative][https://youtube.com/shorts/Dmrl7fWxBSI]
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
