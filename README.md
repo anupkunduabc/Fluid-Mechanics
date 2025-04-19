@@ -130,13 +130,20 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
 - [Derivation of the Navier-Stokes Equations](https://youtu.be/fpp9wgnbg80)
 - [Bernoulli’s Equation: Fluid Flow in a Pipe](https://youtu.be/6nhu8WL6mTU)
+- [Applying Bernoulli's Equation in Pipeline Pressure calculation](https://youtu.be/2tYQI9Pkdzg)
+- 
 - [Derivation of Bernoulli's Equation from Euler's Equations](https://youtu.be/tkYdv5AHieQ)
 - [Exploring the Various Forms of Bernoulli's Equation](https://youtu.be/kacp8gYAQTE)
 - [Calculating Flow Direction and Head Loss in an Oil Pipeline Using Bernoulli's Equation](https://youtu.be/VdXgc9cwENs)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
 - [Venturimeter ](https://youtube.com/shorts/g2TToNhPGH4)
+- [Numerical On Venturimeter](https://youtu.be/KNooZCsKb9A)
+- [Numerical Problems on Venturi Meters](https://youtu.be/GTiBmqoeP54)
+- [Flow Measurement: The Venturi Meter](https://youtu.be/SWiDKNdcCZU)
 - [Flow Measurement:  Orifice Meter](https://youtu.be/Pdisf2c3PXA)
 - [Fluid velocity Measurement:  Pitot Tube](https://youtu.be/kvRy1a8mcmE)
+- [Numerical on Pitot tube](https://youtu.be/J1ZMOiSR-1E)
+- [Exploring Numericals on Orifice Meters](https://youtu.be/7k3tYuDF_wk)
 - [Bernoulli's Equation in Fluid Mechanics](https://youtube.com/shorts/Ld2bBODe6fk)
 - [Application of Bernoulli's Equation and Continuity Equation with Mistake](https://youtube.com/shorts/UYn3XRn-xds)
 - [Application of Bernoulli 's Equation](https://youtube.com/shorts/uxztF1Zc5rM)
@@ -160,9 +167,12 @@ All video lectures are hosted on YouTube and linked here for easy access.
 
 ### 📏 UNIT III: Dimensional Analysis & Particle Dynamics
 
-- Dimensional homogeneity
+- [Dimensional homogeneity](Understanding Dimensional Homogeneity)
 - [Rayleigh method for dimensional analysis](https://youtu.be/3S8S0NRIvI4)
 - [Buckingham's π Theorem](https://youtu.be/DYGkRvyYzwg)
+- [Dimensional Analysis Rayleigh’s Method](https://youtu.be/oN7uc_SIdBQ)
+- [Dimensional Analysis  Rayleigh’s Method for Pendulum](https://youtu.be/a9gM_fUP0Jw)
+- []
 <!--- Rayleigh & Buckingham Pi methods
 - Important dimensionless numbers
 - Similitude and scale-up
@@ -223,6 +233,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Net Positive Suction Head (NPSH) Numerical](https://youtu.be/BpBFT0p2ZQw)
 - [pumping Power calculation ](https://youtu.be/ul-rPZEaa2I)
 - [Pumping power calculation by Bernoulli equation](https://youtu.be/1Hw99QmLZTU)
+- [Powering the Flow: Calculating Pressure Difference Across the Pump and Pumping Power Calculation](https://youtu.be/ch3tCfRiBNc)
 - 
 - Pumps: Centrifugal, reciprocating, rotary
 - Fans, compressors, and blowers
