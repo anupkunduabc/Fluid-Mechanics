@@ -77,11 +77,11 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - Dimensional homogeneity
 - [Rayleigh method for dimensional analysis](https://youtu.be/3S8S0NRIvI4)
 - [Buckingham's π Theorem](https://youtu.be/DYGkRvyYzwg)
-- Rayleigh & Buckingham Pi methods
+<!--- Rayleigh & Buckingham Pi methods
 - Important dimensionless numbers
 - Similitude and scale-up
 - Particle dynamics and forces
-- Terminal velocity & drag coefficients
+- Terminal velocity & drag coefficients-->
 
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
