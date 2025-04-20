@@ -1,5 +1,18 @@
 # Fluid-Mechanics-Youtube
 YouTube lecture links and notes for Fluid Mechanics
+
+
+## 🌊 GATE Chemical Engineering Syllabus:  Fluid Mechanics and Mechanical Operations
+
+- Fluid statics, Newtonian/non-Newtonian fluids, surface tension
+- Transport properties, Bernoulli, energy balance, motion equations
+- Friction factors, dimensional analysis, similitude
+- Pipe systems, flow meters, pumps, compressors
+- Boundary layer theory, flow past immersed bodies
+- Packed and fluidized beds, turbulent flow, velocity profiles
+- Particle size distribution, size reduction, settling, centrifuges
+- Filtration, thickening, agitation, mixing, solid conveying
+
 # 📘 Fluid Mechanics - Video Lectures
 
 Welcome to the official GitHub repo for Fluid Mechanics course.  
