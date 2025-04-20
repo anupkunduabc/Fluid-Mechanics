@@ -4,7 +4,7 @@ YouTube lecture links and notes for Fluid Mechanics
 
 ## 🌊 GATE Chemical Engineering Syllabus:  Fluid Mechanics and Mechanical Operations
 
-Fluid statics, surface tension, Newtonian and non-Newtonian fluids, transport properties, shellbalances including differential form of Bernoulli equation and energy balance, equation of 
+Fluid statics, surface tension, Newtonian and non-Newtonian fluids, transport properties, shell-balances including differential form of Bernoulli equation and energy balance, equation of 
 continuity, equation of motion, equation of mechanical energy, Macroscopic friction factors, 
 dimensional analysis and similitude, flow through pipeline systems, velocity profiles, flow meters, 
 pumps and compressors, elementary boundary layer theory, flow past immersed bodies including 
