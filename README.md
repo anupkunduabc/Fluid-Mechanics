@@ -84,13 +84,13 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Bouyancy of Submerged Object](https://youtube.com/shorts/IqKNH7wEyAE)
 - [Calculating Pressure Differences with Inclined Manometers](https://youtu.be/GhdI1dUDpW0)
 - [Calculating pressures using a multifluid manometer](https://youtu.be/hOCsj70GDHU)
-- 
-- 
+- [Knudsen Number](https://youtube.com/shorts/9gN1bp7Y6Vg)
 - Continuum hypothesis and field variables
 - Velocity and stress fields
 - Classification of fluid motion
+- [Laminar vs Turbulent Flow](https://youtube.com/shorts/IMo1hEpx85I)
 - [Steady Unsteady uniform non-uniform flow](https://youtube.com/shorts/EdpaaBm9xfw)
-- 
+- [Classification of Fluids  Newtonian vs Non-Newtonian](https://youtube.com/shorts/IMo1hEpx85I)
 
 -🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
 -🎥 Numerical 
@@ -117,10 +117,6 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Major and Minor Losses in Piping Systems](https://youtu.be/XZHcCBF97lQ)
 - [Determining Pressure Difference Between Two Points in a Fluid System](https://youtu.be/LldX7KtIdiM)
 - 
-- 
-- 
-- 
----
 
 ### 🔁 💧UNIT II: Kinematics of Fluid Flow
 
@@ -137,18 +133,20 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Material Derivative /Substantial Derivative](https://youtube.com/shorts/Dmrl7fWxBSI)
 - [Derivation of 3D Continuity Equation and Special Cases](https://youtu.be/jWszNf-SNAA)
 - [Continuity Equation](https://youtube.com/shorts/Z0Hn7aTJgug)
+- [Continuity Equation  Mass Conservation in Fluids](https://youtube.com/shorts/nNsbTtJ5qqU)
 - [Application of Continuity Equation Exercise](https://youtu.be/IRlv2m72Eb4)
 - [Application of flow Continuity](https://youtube.com/shorts/zLGoa9W44ig)
 - [Solving Continuity Equation: Flow Rate and Velocity Calculation in a Pipe](https://youtu.be/nxkCqeGprI8)
 - [Understanding the Continuity Equation for Pipe Flow ](https://youtu.be/py15pIw6eaM)
 - [Application of Bernoulli's Equation](https://youtu.be/SMXIweef_LM)
+- [Force Balance in Navier-Stokes](https://youtube.com/shorts/mydcPAwk0_8)
 - [Numerical Example: Pipeline Analysis with Bernoulli's Equation](https://youtu.be/oNnMcF2-tEU)
 - [Comprehensive Analysis of Fluid Flow in a Complex Pipe Network Using the Continuity Equation](https://youtu.be/6HZVjGGcQls)
 - [Derivation of the Navier-Stokes Equations](https://youtu.be/fpp9wgnbg80)
 - [Bernoulli’s Equation: Fluid Flow in a Pipe](https://youtu.be/6nhu8WL6mTU)
 - [Applying Bernoulli's Equation in Pipeline Pressure calculation](https://youtu.be/2tYQI9Pkdzg)
-- 
 - [Derivation of Bernoulli's Equation from Euler's Equations](https://youtu.be/tkYdv5AHieQ)
+- [Bernoulli Equation](https://youtube.com/shorts/AZOJLl3hCHw)
 - [Exploring the Various Forms of Bernoulli's Equation](https://youtu.be/kacp8gYAQTE)
 - [Calculating Flow Direction and Head Loss in an Oil Pipeline Using Bernoulli's Equation](https://youtu.be/VdXgc9cwENs)
 - [Solving Numerical Problems on Venturimeter](https://youtu.be/jgTTWbRYyzE)
@@ -174,12 +172,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Harnessing Bernoulli's Equation: Determining Jet Velocity from a Hose Nozzle](https://youtu.be/aTrleBDc7T8)
 - [Applying the Continuity Equation and Mass Balance in Flow Through Pipe Modeling](https://youtu.be/kV5qqjjeaQs)
 - [Application of Bernoulli's equation of Pipe Flow](https://youtu.be/NXqid1AylT8)
-- 
-- 
-- 
 
-
----
 
 ### 📏 UNIT III: Dimensional Analysis & Particle Dynamics
 
@@ -223,7 +216,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Laminar Flow through an Annulus](https://youtu.be/dWy61V_gaJM)
 - [Flow of fluids through the annular space between two coaxial pipes](https://youtu.be/DoAIIvt_keU)
 - [Laminar Flow in Rotating Cylindrical Annuli](https://youtu.be/PKdLAZYNoys)
-<!---- Design of piping systems
+- Design of piping systems
 - Boundary layer theory
 - Flow over objects: Drag and lift
 - Flow through beds and porous media-->
@@ -234,7 +227,6 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Ergun Equation for pressure drop across a packed bed](https://youtube.com/shorts/IhCl7ksuKmQ)
 - [Kozney Carman equations](https://youtube.com/shorts/xkfXTFL7OUw)
 - 
-
 🎥 [Watch Lecture](https://www.youtube.com/your-link-here)
 
 ---
