@@ -23,7 +23,7 @@ All video lectures are hosted on YouTube and linked here for easy access.
 ---
 ## 📘 Course Syllabus
 - [Chemical Engineering as a Career Choice](https://youtu.be/QjlDN_qnJIo)
-- [Chemical Engineering Graduates: How Software Will Transform Your Career?](https://youtu.be/QjlDN_qnJIo)
+- [Chemical Engineering Graduates: How Software Will Transform Your Career?](https://youtu.be/0ztxwMYelR4)
 - [Fluid Mechanics in the context of Chemical Engineering](https://youtu.be/P6vSM4dCEKE)
 - [Chemical Engineering Books for GATE Preparation](https://youtu.be/IfC9wqBA-uE)
 - [what is Fluid Mechanics?](https://youtube.com/shorts/vph5UHGGANI)
@@ -85,13 +85,12 @@ All video lectures are hosted on YouTube and linked here for easy access.
 - [Calculating Pressure Differences with Inclined Manometers](https://youtu.be/GhdI1dUDpW0)
 - [Calculating pressures using a multifluid manometer](https://youtu.be/hOCsj70GDHU)
 - [Knudsen Number](https://youtube.com/shorts/9gN1bp7Y6Vg)
-- Continuum hypothesis and field variables
-- Velocity and stress fields
-- Classification of fluid motion
+- [Continuum hypothesis and field variables](https://youtube.com/shorts/9gN1bp7Y6Vg)
+- [Velocity and stress fields](https://youtube.com/shorts/sY_8Jb0dlmU)
+- [Classification of fluid motion](https://youtube.com/shorts/gjBqKAp8qLo)
 - [Laminar vs Turbulent Flow](https://youtube.com/shorts/IMo1hEpx85I)
 - [Steady Unsteady uniform non-uniform flow](https://youtube.com/shorts/EdpaaBm9xfw)
 - [Classification of Fluids  Newtonian vs Non-Newtonian](https://youtube.com/shorts/IMo1hEpx85I)
-
 -🎥 [Fluid Properties Summary](https://youtu.be/n4dO3l0Hqf8)
 -🎥 Numerical 
 - [Kinematic Viscosity Calculation](https://youtu.be/gn7WpNE67mQ)
